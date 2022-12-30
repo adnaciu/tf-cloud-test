@@ -1,0 +1,11 @@
+https://github.com/adnaciu/tf-cloud-test.git
+
+# git remote add origin https://github.com/adnaciu/tf-cloud-test.git
+
+git remote set-url origin https://github.com/adnaciu/tf-cloud-test.git
+
+git add .
+
+git commit -m "test commit"
+
+git push
